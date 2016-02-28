@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="51" started-at="2016-02-28T10:57:08Z" finished-at="2016-02-28T10:57:08Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="51" started-at="2016-02-28T10:57:08Z" finished-at="2016-02-28T10:57:08Z">
+      <class name="_Jan.simply.JavaFile1">
+        <test-method status="PASS" signature="addition()[pri:0, instance:_Jan.simply.JavaFile1@1d3411d]" name="addition" duration-ms="15" started-at="2016-02-28T16:27:08Z" finished-at="2016-02-28T16:27:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addition -->
+        <test-method status="PASS" signature="multiplication()[pri:0, instance:_Jan.simply.JavaFile1@1d3411d]" name="multiplication" duration-ms="2" started-at="2016-02-28T16:27:08Z" finished-at="2016-02-28T16:27:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiplication -->
+        <test-method status="PASS" signature="subtraction()[pri:0, instance:_Jan.simply.JavaFile1@1d3411d]" name="subtraction" duration-ms="1" started-at="2016-02-28T16:27:08Z" finished-at="2016-02-28T16:27:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subtraction -->
+      </class> <!-- _Jan.simply.JavaFile1 -->
+      <class name="_Jan.simply.JavaFile2">
+        <test-method status="PASS" signature="addition()[pri:0, instance:_Jan.simply.JavaFile2@2c22f3]" name="addition" duration-ms="2" started-at="2016-02-28T16:27:08Z" finished-at="2016-02-28T16:27:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addition -->
+        <test-method status="PASS" signature="multiplication()[pri:0, instance:_Jan.simply.JavaFile2@2c22f3]" name="multiplication" duration-ms="2" started-at="2016-02-28T16:27:08Z" finished-at="2016-02-28T16:27:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiplication -->
+        <test-method status="PASS" signature="subtraction()[pri:0, instance:_Jan.simply.JavaFile2@2c22f3]" name="subtraction" duration-ms="1" started-at="2016-02-28T16:27:08Z" finished-at="2016-02-28T16:27:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subtraction -->
+      </class> <!-- _Jan.simply.JavaFile2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
